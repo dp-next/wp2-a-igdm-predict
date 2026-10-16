@@ -2,9 +2,9 @@
 title: "Protocol: TITLE"
 # Add all contributors here
 author:
-  - name: NAME
+  - name: Elpida Vounzoulaki
     affiliation:
-      - name: INSTITUTION
+      - name: Department of Public Health Aarhus University and Steno Diabetes Center Aarhus
 date: last-modified
 format: html
 # bibliography: "file/path"
