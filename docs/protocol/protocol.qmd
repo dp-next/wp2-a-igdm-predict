@@ -5,6 +5,9 @@ author:
   - name: Elpida Vounzoulaki
     affiliation:
       - name: Department of Public Health Aarhus University and Steno Diabetes Center Aarhus
+  - name: Daniel Witte
+    affiliation:
+      - name: Department of Public Health Aarhus University and Steno Diabetes Center Aarhus
 date: last-modified
 format: html
 # bibliography: "file/path"
